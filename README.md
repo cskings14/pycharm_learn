@@ -1,0 +1,1 @@
+File that holds multiple different aspects of programming. This folder was started during the pandemic (the start of my programming journey) in order to learn all of the basics / anything interesting. 
